@@ -1,1 +1,1 @@
-web: ruby barcode-server.rb
+web: bundle exec barcode-server.rb
